@@ -1,0 +1,33 @@
+{
+items: [
+{
+rating: 1,
+smallThumbnail: "http://tv.goodbarber.com/images/video/533192/modules/perso-medium_16-9.jpg?v=1380295125",
+title: "Friday Talk #30: GoodBarber 2.5: Salvador",
+url: "http://tv.goodbarber.com/Friday-Talk-30-GoodBarber-2-5-Salvador_v163.html",
+images: [
+{
+url: "http://tv.goodbarber.com/images/video/533192/modules/perso-large_16-9.jpg?v=1380295125",
+id: "5907315.jpg"
+}
+],
+thumbnail: "http://tv.goodbarber.com/images/video/533192/modules/perso-large_16-9.jpg?v=1380295125",
+nbViews: 79,
+summary: "Special Friday Talk,&nbsp;as we hope you all know we launched a new release: GoodBarber 2.5: Salvador. It’s the second major update since the beginning of GoodBarber. We will explain you more in detail the most important features in different blog posts and Friday Talks. But today we want to know how the team feels about it.",
+content: "<strong>Special Friday Talk,</strong>&nbsp;as we hope you all know we launched a new release: GoodBarber 2.5: Salvador. It’s the second major update since the beginning of GoodBarber. We will explain you more in detail the most important features in different blog posts and Friday Talks. But today we want to know how the team feels about it.",
+subtype: "wmaker",
+length: 160,
+auteur: "Dominique Siacci",
+nbRatings: 0,
+date: "2013-09-27T17:20:00+02:00",
+largeThumbnail: "http://tv.goodbarber.com/images/video/533192/player/perso-player_preview.jpg?v=1380295125",
+commentsEnabled: false,
+type: "video",
+id: 5907315,
+videoUrls: {
+embedHTML: "<iframe class="wmvid" src="http://tv.goodbarber.com/embed/163/" width="100%" height="auto" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>",
+embed: "http://tv.goodbarber.com/embed/163/",
+videoHref: "<a class="gb_play" href="http://tv.goodbarber.com/video/533192/iphone/stream.m3u8" ><img width="100%" height="auto" src="http://tv.goodbarber.com/images/video/533192/modules/perso-large_16-9.jpg?v=1380295125" /></a>",
+mp4: "http://tv.goodbarber.com?preaction=load_iphone_video&v=533192&f=3519957_iphone.mp4",
+m3u8: "http://tv.goodbarber.com/video/533192/iphone/stream.m3u8"
+}
